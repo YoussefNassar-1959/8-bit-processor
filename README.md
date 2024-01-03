@@ -1,4 +1,4 @@
-# 🚀 My 8-bit Processor Project
+# 🚀 8-bit Processor
 
 Welcome to my 8-bit processor project repository! This processor, built using Logisim, is a fully functional system incorporating an ALU, Control Unit, RAM, and Clock. 
 
