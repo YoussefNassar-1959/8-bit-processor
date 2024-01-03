@@ -1,7 +1,3 @@
-# 8-bit Processor Project 🖥️
-
-This project encapsulates a robust computing model comprising vital components fundamental to computational systems.
-
 ## Overview 🌟
 
 This endeavor epitomizes a digital emulation of an 8-bit computational architecture. It integrates core elements pivotal to its functionality: an Arithmetic Logic Unit (ALU), Control Unit, Random Access Memory (RAM), Clock, Instruction Register (IR), and various specialized registers.
