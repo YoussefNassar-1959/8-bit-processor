@@ -29,7 +29,7 @@ The Instruction Register briefly houses the currently fetched instruction awaiti
 To engage with and simulate this processor:
 
 1. **Logisim Installation**: Ensure Logisim is installed on your local environment.
-2. **8-bit processor.circ**: Access the provided Logisim file (`Processor.circ`) to explore and simulate the processor's intricate operations.
+2. **8-bit processor.circ**: Access the provided Logisim file (`8-bit processor.circ`) to explore and simulate the processor's intricate operations.
 3. **Experimentation**: Experiment with diverse input scenarios, observe instruction execution, and explore the processor's behavior across different operational conditions.
 
 ## Contributions and Development 🤝
