@@ -39,12 +39,6 @@ Contributions and enhancements to this project are greatly appreciated:
 - Implement changes or add new features.
 - Submit a pull request along with a brief description of the modifications made.
 
-## Future Improvements 🚧
-
-Some potential areas for improvement and expansion of this project include:
-- Enhancing ALU functionality with more operations.
-- Implementing additional memory modules.
-- Optimizing the Control Unit for better performance.
 
 ## Acknowledgments 🙏
 
